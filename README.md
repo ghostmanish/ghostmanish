@@ -41,7 +41,7 @@ here are some ides to get started:
 
 
 <h2>📈Manish Kumar Goswami Github Stats</h2><br>
- <img class="img" align='left' src="https://github-readme-stats.vercel.app/api?username=ghostmanish&show_icons=true&theme=radical&count_private=true,prs" width="400" /><img align='right' src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="330" height="350">
+ <img class="img" align='left' src="https://github-readme-stats.vercel.app/api?username=ghostmanish&show_icons=true&theme=radical&count_private=true,prs" width="400" /><img align='right' src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="330" height="300">
 
 <br>
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanish&theme=radical&layout=compact" width="400" />
